@@ -1,0 +1,1 @@
+<footer> 2016 &copy; Admin by Lock &nbsp;&nbsp;</footer>
